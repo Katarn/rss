@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="add">images/add.png</file>
+        <file alias="add-feed">images/add-feed.png</file>
+        <file alias="add-folder">images/add-folder.png</file>
+        <file alias="arrow-left">images/arrow-left.png</file>
+        <file alias="arrow-right">images/arrow-right.png</file>
+        <file alias="bullet-new">images/bullet-new.png</file>
+        <file alias="bullet-read">images/bullet-read.png</file>
+        <file alias="bullet-unread">images/bullet-unread.png</file>
+        <file alias="export-feeds">images/export-feeds.png</file>
+        <file alias="feed-icon">images/feed-icon.png</file>
+        <file alias="folder">images/folder.png</file>
+        <file alias="import-feeds">images/import-feeds.png</file>
+        <file alias="menu">images/menu.png</file>
+        <file alias="movie">images/loading.gif</file>
+        <file alias="panel-hide">images/panel-hide.png</file>
+        <file alias="panel-show">images/panel-show.png</file>
+        <file alias="starred">images/starred.png</file>
+        <file alias="tab-close">images/tab-close.png</file>
+        <file alias="tab-close-hover">images/tab-close-hover.png</file>
+        <file alias="unstarred">images/unstarred.png</file>
+        <file alias="read">images/read.png</file>
+        <file alias="star">images/star.png</file>
+        <file alias="column">images/column.png</file>
+        <file alias="download">images/download.png</file>
+        <file alias="filters">images/filters.png</file>
+        <file alias="options">images/options.png</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file alias="purple">styles/purple.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+export const config = {
+    dbHost:     "",
+    dbName:     "",
+    dbUser:     "",
+    dbPassword: "",
+
+    dbSqlite: ""
+};
